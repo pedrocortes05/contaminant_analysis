@@ -8,4 +8,4 @@ En donde:
 
 ![Alt text](image.png)
 
-El archivo de Excel debe de estar en la misma carpeta que el programa `main.py`
+El archivo de Excel (Tabulados del Inventario Nacional de Emisiones AMM.xlsx) debe de estar en la misma carpeta que el programa `main.py`
